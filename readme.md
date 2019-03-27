@@ -13,7 +13,7 @@ cd spring-petclinic
 ./mvnw package
 java -jar target/*.jar
 ```
-
+/////pull demo
 You can then access petclinic here: http://localhost:8080/
 UPDATE README2
 
