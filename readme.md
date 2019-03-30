@@ -14,6 +14,7 @@ cd spring-petclinic
 java -jar target/*.jar
 ```
 /////pull demo
+git demo
 You can then access petclinic here: http://localhost:8080/
 UPDATE README222
 
